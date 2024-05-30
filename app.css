@@ -160,12 +160,16 @@ html,body{
     font-weight: 900;
 }
 .input{
+
     max-width: 80%;
     flex-grow: 1;
     background-color: rgba(0, 0, 0, 0.5);
     border:none;
     border-radius: 20px;
     height:30px;
+    color: rgba(240, 248, 255, 0.6);
+    font-size: 15px;
+    padding-left: 10px;
 }
 form{
     display: flex;
